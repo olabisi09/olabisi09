@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Olabisi 👋
 
-<!--
-**olabisi09/olabisi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer skilled in React and TypeScript. I'm passionate about building performative web applications that make something easier for someone out there. I love learning new ways to solve problems and applying them to what I do — I love a good challenge!
 
-Here are some ideas to get you started:
+## 🔭 What I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building something specifically for Nigerians who want to stay healthy while eating Nigerian meals
+- Contributing to open-source React projects
+- Building a portfolio website to showcase my work
+
+## 🌱 What I’m currently learning
+- Next.js
+- Advanced TypeScript concepts
+- Software optimization in React applications
+
+## 💬 Ask me about
+- React best practices
+- Transitioning from Vanilla JS to TypeScript
+- Any kind of music
+
+## ⚡ Fun fact
+- I absolutely LOVE the Lord of the Rings books and all of J.R.R Tolkien's work
+
+## 📫 How to reach me
+- Email: [olabisiolaoye09@gmail.com](mailto:olabisiolaoye09@gmail.com)
+- Twitter: [@olabisi_laoye](https://twitter.com/olabisi_laoye)
+- LinkedIn: [www.linkedin.com/in/olabisi-olaoye/](https://www.linkedin.com/in/olabisi-olaoye/)
