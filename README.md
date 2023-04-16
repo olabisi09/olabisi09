@@ -4,7 +4,6 @@ I'm a software engineer skilled in React and TypeScript. I'm passionate about bu
 
 ## 🔭 What I’m currently working on
 
-- Building something specifically for Nigerians who want to stay healthy while eating Nigerian meals
 - Contributing to open-source React projects
 - Building a portfolio website to showcase my work
 
