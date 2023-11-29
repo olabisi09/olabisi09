@@ -4,13 +4,14 @@ I'm a frontend engineer skilled in React and TypeScript. I'm passionate about bu
 
 ## 🔭 What I’m currently working on
 
+- My own component library
 - Contributing to open-source React projects
 - Building a portfolio website to showcase my work
 
 ## 🌱 What I’m currently learning
 - Next.js
-- Advanced TypeScript concepts
-- Software optimization in React applications
+- More data structures and algorithms
+- Confidence 😊
 
 ## 💬 Ask me about
 - React best practices
