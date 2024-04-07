@@ -1,6 +1,6 @@
 ### Hi, I'm Olabisi 👋
 
-I'm a frontend engineer skilled in React and TypeScript. I'm passionate about building performative web applications that make something easier for someone out there. I love learning new ways to solve problems and applying them to what I do — I love a good challenge!
+I'm a frontend engineer skilled in React and TypeScript. I'm passionate about building web applications that make something easier for someone out there. I love learning new ways to solve problems and applying them to what I do — I love a good challenge!
 
 ## 🔭 What I’m currently working on
 
