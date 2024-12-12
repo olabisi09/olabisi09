@@ -6,10 +6,8 @@ I'm a frontend engineer skilled in React and TypeScript. I'm passionate about bu
 
 - My own component library
 - Contributing to open-source React projects
-- Building a portfolio website to showcase my work
 
 ## 🌱 What I’m currently learning
-- Next.js
 - More data structures and algorithms
 - Confidence 😊
 
